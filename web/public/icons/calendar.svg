@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.836" height="15.516" viewBox="0 0 13.836 15.516">
+  <g id="calendar-interface-symbol-tool" transform="translate(-1.974)">
+    <g id="Group_465" data-name="Group 465" transform="translate(1.974)">
+      <path id="Path_116" data-name="Path 116" d="M14,1.681h-.467v-.51a1.137,1.137,0,1,0-2.273,0v.51H10.093v-.51a1.137,1.137,0,1,0-2.273,0v.51H6.654v-.51a1.137,1.137,0,1,0-2.273,0v.51h-.6A1.812,1.812,0,0,0,1.974,3.49V13.707a1.812,1.812,0,0,0,1.809,1.809H14a1.811,1.811,0,0,0,1.809-1.809V3.49A1.812,1.812,0,0,0,14,1.681Zm-2.1-.51a.5.5,0,1,1,1,0V3.255a.5.5,0,1,1-1,0Zm-3.44,0a.5.5,0,1,1,1,0V3.255a.5.5,0,1,1-1,0Zm-3.44,0a.5.5,0,1,1,1,0V3.255a.5.5,0,1,1-1,0Zm9.727,12.537a.746.746,0,0,1-.745.745H3.783a.746.746,0,0,1-.745-.745V4.342H14.746Z" transform="translate(-1.974)" fill="#47526c"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="1.956" height="1.741" transform="translate(2.022 6.227)" fill="#47526c"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="1.957" height="1.741" transform="translate(4.633 6.227)" fill="#47526c"/>
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="1.956" height="1.741" transform="translate(7.246 6.227)" fill="#47526c"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="1.956" height="1.74" transform="translate(2.022 8.55)" fill="#47526c"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="1.957" height="1.74" transform="translate(4.633 8.55)" fill="#47526c"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="1.956" height="1.74" transform="translate(2.022 10.873)" fill="#47526c"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="1.957" height="1.74" transform="translate(4.633 10.873)" fill="#47526c"/>
+    </g>
+  </g>
+</svg>
